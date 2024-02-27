@@ -12,8 +12,10 @@ function Home() {
   };
   return (
     <div className="mainHome">
+      
       <Banner
         image={BannerHome}
+        title='Bienvenue sur mon portfolio en ligne'
         texte="Explorez un monde de projets créatifs conçus dans le cadre de ma formation. Chaque projet est une pièce de puzzle dans mon parcours d'apprentissage. Découvrez mes réalisations, façonnées avec soin et dévouement. Parcourez les cartes ci-dessous pour un aperçu de mon travail.Prêt à plonger dans mon univers ? Let's dive in!"
       />
       <div className="listCard">

@@ -43,7 +43,7 @@
     "title": "Créez une landing page avec Javascript",
     "image": "assets/gameon.png",
     "description": " prendre le relais pour compléter la partie Front-End de la nouvelle page d'accueil et l'inscription GameOn",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "pictures": ["assets/projet1/game1.png", "assets/projet1/game2.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "
@@ -62,7 +62,7 @@
     "title": "Créez un site accessible pour une plateforme de photographes",
     "image": "assets/fisheye.png",
     "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "pictures": ["assets/projet1/fisheye1.png","assets/projet1/fisheye2.png","assets/projet1/fisheye3.png","assets/projet1/fisheye4.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "
@@ -83,7 +83,7 @@
     "title": "Développez un algorithme de recherche en JavaScript",
     "image": "assets/petitplat.png",
     "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "pictures": ["assets/projet1/pp1.png", "assets/projet1/pp2.png", "assets/projet1/pp3.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "
@@ -101,8 +101,8 @@
     "title": "Développez un algorithme de recherche en JavaScript",
     "image": "assets/billed.png",
     "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/booki1.png", 
-    "assets/projet1/booki2.png"],
+    "pictures": ["assets/projet1/billed1.png", 
+    "assets/projet1/billed2.png","assets/projet1/billed3.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "
@@ -121,7 +121,7 @@
     "title": "Développez un algorithme de recherche en JavaScript",
     "image": "assets/learnhome.png",
     "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "pictures": ["assets/projet1/learnhome1.png", "assets/projet1/learnhome2.png", "assets/projet1/learnhome3.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "
@@ -139,7 +139,7 @@
     "title": "Développez un algorithme de recherche en JavaScript",
     "image": "assets/kasa.png",
     "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "pictures": ["assets/projet1/kasa1.png", "assets/projet1/kasa2.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "
@@ -157,7 +157,7 @@
     "title": "Développez un algorithme de recherche en JavaScript",
     "image": "assets/sportsee.png",
     "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "pictures": ["assets/projet1/sportsee1.png", "assets/projet1/sportsee2.png", "assets/projet1/sportsee3.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "
