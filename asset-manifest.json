@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio-mes-projet/static/css/main.753b8e45.css",
+    "main.js": "/portfolio-mes-projet/static/js/main.52b89f34.js",
+    "static/js/453.4302eacc.chunk.js": "/portfolio-mes-projet/static/js/453.4302eacc.chunk.js",
+    "static/media/booki3.png": "/portfolio-mes-projet/static/media/booki3.a630e6b0f3c1494a86d6.png",
+    "static/media/ohmyfood3.png": "/portfolio-mes-projet/static/media/ohmyfood3.cadd1a82472dde049f5c.png",
+    "static/media/ohmyfood2.png": "/portfolio-mes-projet/static/media/ohmyfood2.07bc4f54c0506fa820d4.png",
+    "static/media/booki2.png": "/portfolio-mes-projet/static/media/booki2.d4faaa35d17335c9d482.png",
+    "static/media/hrnet.png": "/portfolio-mes-projet/static/media/hrnet.eb764d0b76c5271d7fda.png",
+    "static/media/ohmyfood6.png": "/portfolio-mes-projet/static/media/ohmyfood6.65bcfbbba0528bcdce0e.png",
+    "static/media/Home.png": "/portfolio-mes-projet/static/media/Home.e5ee15a720367ed5d22a.png",
+    "static/media/sportsee.png": "/portfolio-mes-projet/static/media/sportsee.f7ed036bd7a23d7d0f72.png",
+    "static/media/ohmyfood4.png": "/portfolio-mes-projet/static/media/ohmyfood4.f1d76a0e2f7628495e48.png",
+    "static/media/banner.jpg": "/portfolio-mes-projet/static/media/banner.bf53d90dadfb5bc77f6e.jpg",
+    "static/media/ohmyfood5.png": "/portfolio-mes-projet/static/media/ohmyfood5.ea8c8600b37f65519f74.png",
+    "static/media/booki1.png": "/portfolio-mes-projet/static/media/booki1.7b3fa845eeae5e7f557c.png",
+    "static/media/ohmyfood1.png": "/portfolio-mes-projet/static/media/ohmyfood1.19643c1ca4e7dc4aa2eb.png",
+    "static/media/argentbank.png": "/portfolio-mes-projet/static/media/argentbank.12c738bd67adcfc23fcc.png",
+    "static/media/ohmyfood.png": "/portfolio-mes-projet/static/media/ohmyfood.363d7d5fb796f876dc07.png",
+    "static/media/fisheye.png": "/portfolio-mes-projet/static/media/fisheye.95ebc9d75fc21bc942b2.png",
+    "static/media/billed.png": "/portfolio-mes-projet/static/media/billed.615747ae86fab3768dbf.png",
+    "static/media/kasa.png": "/portfolio-mes-projet/static/media/kasa.815ea1a40f39f61ace74.png",
+    "static/media/gameon.png": "/portfolio-mes-projet/static/media/gameon.cc412e89fb6f2c5315dd.png",
+    "static/media/booki.png": "/portfolio-mes-projet/static/media/booki.3f42c74189f260aef6de.png",
+    "static/media/petitplat.png": "/portfolio-mes-projet/static/media/petitplat.25de52b909a5e7b47305.png",
+    "static/media/logo1.png": "/portfolio-mes-projet/static/media/logo1.bf91c1d120ad39dceb89.png",
+    "static/media/learnhome.png": "/portfolio-mes-projet/static/media/learnhome.abd7a2a8849793167d2a.png",
+    "index.html": "/portfolio-mes-projet/index.html",
+    "static/media/arrow_back_ios.svg": "/portfolio-mes-projet/static/media/arrow_back_ios.a8b9b5ca78cd5124727100163f345f20.svg",
+    "main.753b8e45.css.map": "/portfolio-mes-projet/static/css/main.753b8e45.css.map",
+    "main.52b89f34.js.map": "/portfolio-mes-projet/static/js/main.52b89f34.js.map",
+    "453.4302eacc.chunk.js.map": "/portfolio-mes-projet/static/js/453.4302eacc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753b8e45.css",
+    "static/js/main.52b89f34.js"
+  ]
+}
