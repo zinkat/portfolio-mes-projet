@@ -1,0 +1,44 @@
+footer {
+    background: #10303e;
+    color: #ffffffc2;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    height: 150px;
+  }
+  
+  .footerContent {
+    display: flex;
+    padding: 66px 0px 58px 0px;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  p {
+    display: flex;
+    height: 45px;
+    margin: 0;
+    align-items: center;
+  }
+  .logofooter{
+    width: 24px;
+    height: 24px;
+  }
+  .socialLinks{
+    margin-top: 10px;
+display: flex;
+flex-direction: row;
+
+gap: 50px;
+
+  }
+  @media screen and (max-width: 768px) {
+    footer{
+      margin-top: 40px;
+    }
+    .footerContent {
+      font-size: 14px;
+    }
+  }
+  

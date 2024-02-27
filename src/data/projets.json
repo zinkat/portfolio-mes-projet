@@ -1,0 +1,209 @@
+[
+  {
+    "id": "1",
+    "title": "Transformez une maquette en site web avec HTML & CSS",
+    "image": "assets/booki.png",
+    "description": "L’entreprise Booki souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png", "assets/projet1/booki3.png"],
+    "missions": [
+      "Mission 1: chargé d'intégrer l'interface du site avec du code HTML et CSS",
+      "Mission 2: développer un site responsive"
+    ],
+    "skillsAcquired": [
+      "Intégrer du contenu conformément à une maquette",
+      "Implémenter une interface responsive"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Responsive design "],
+    "githubLink": "https://github.com/zinkat/OC-Projet1-Booki.git",
+    "liveLink": "https://zinkat.github.io/OC-Projet1-Booki/"
+  },
+
+  {
+    "id": "2",
+    "title": "Dynamisez une page web avec des animations CSS",
+    "image": "assets/ohmyfood.png",
+    "description": " développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !",
+    "pictures": ["assets/projet1/ohmyfood1.png", "assets/projet1/ohmyfood2.png","assets/projet1/ohmyfood3.png", "assets/projet1/ohmyfood4.png" ,"assets/projet1/ohmyfood5.png", "assets/projet1/ohmyfood6.png"],
+    "missions": [
+      "Mission 1: développer un site “mobile first”",
+      "Mission 2: dynamiser le site avec des animations soignées Css "
+    ],
+    "skillsAcquired": [
+      "Mettre en œuvre des effets CSS graphiques avancés",
+      "Assurer la cohérence graphique d'un site web",
+      "Mettre en place une structure de navigation pour un site web"
+    ],
+    "technologiesUsed": ["HTML", "CSS / Sass", "@keyframes"],
+    "githubLink": "https://github.com/zinkat/ohmyfood-p3-oc-sass.git",
+    "liveLink": "https://zinkat.github.io/ohmyfood-p3-oc-sass/"
+  },
+
+  {
+    "id": "3",
+    "title": "Créez une landing page avec Javascript",
+    "image": "assets/gameon.png",
+    "description": " prendre le relais pour compléter la partie Front-End de la nouvelle page d'accueil et l'inscription GameOn",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Mettre en œuvre des effets CSS graphiques avancés",
+      "Assurer la cohérence graphique d'un site web",
+      "Mettre en place une structure de navigation pour un site web"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Projet-4-GameOn.git",
+    "liveLink": "https://zinkat.github.io/Projet-4-GameOn/"
+  },
+  {
+    "id": "4",
+    "title": "Créez un site accessible pour une plateforme de photographes",
+    "image": "assets/fisheye.png",
+    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Assurer l'accessibilité d'un site web",
+      "Développer une application web modulaire avec des design patterns",
+      "Ecrire du code JavaScript maintenable",
+      "Gérer les évènements d'un site avec JavaScript"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Fisheye-creation-site-accessible-P6.git",
+    "liveLink": "https://zinkat.github.io/Fisheye-creation-site-accessible-P6/"
+  },
+
+  {
+    "id": "5",
+    "title": "Développez un algorithme de recherche en JavaScript",
+    "image": "assets/petitplat.png",
+    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Analyser un problème informatique",
+      "Développer un algorithme pour résoudre un problème"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
+    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+  },
+  {
+    "id": "6",
+    "title": "Développez un algorithme de recherche en JavaScript",
+    "image": "assets/billed.png",
+    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "pictures": ["assets/projet1/booki1.png", 
+    "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Analyser un problème informatique",
+      "Développer un algorithme pour résoudre un problème"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
+    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+  },
+
+  {
+    "id": "7",
+    "title": "Développez un algorithme de recherche en JavaScript",
+    "image": "assets/learnhome.png",
+    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Analyser un problème informatique",
+      "Développer un algorithme pour résoudre un problème"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
+    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+  },
+  {
+    "id": "8",
+    "title": "Développez un algorithme de recherche en JavaScript",
+    "image": "assets/kasa.png",
+    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Analyser un problème informatique",
+      "Développer un algorithme pour résoudre un problème"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
+    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+  },
+  {
+    "id": "9",
+    "title": "Développez un algorithme de recherche en JavaScript",
+    "image": "assets/sportsee.png",
+    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Analyser un problème informatique",
+      "Développer un algorithme pour résoudre un problème"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
+    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+  },
+  {
+    "id": "10",
+    "title": "Développez un algorithme de recherche en JavaScript",
+    "image": "assets/argentbank.png",
+    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Analyser un problème informatique",
+      "Développer un algorithme pour résoudre un problème"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
+    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+  },
+  {
+    "id": "11",
+    "title": "Développez un algorithme de recherche en JavaScript",
+    "image": "assets/hrnet.png",
+    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "missions": [
+      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
+      "Mission 2: Programmer en JavaScript "
+    ],
+    "skillsAcquired": [
+      "Analyser un problème informatique",
+      "Développer un algorithme pour résoudre un problème"
+    ],
+    "technologiesUsed": ["HTML", "CSS", "Javascript"],
+    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
+    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+  }
+]

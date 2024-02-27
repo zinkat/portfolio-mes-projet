@@ -1,0 +1,55 @@
+.bannerContainer {
+    border-radius: 25px;
+    height: 500px;
+    width: 100%;
+    margin-bottom: 38px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+  }
+  .bannerImg {
+    border-radius: 25px;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+    opacity: 1;
+  }
+  .bannerText {
+    color: #ffffffc2;
+    font-size: 1.8em;
+    left: 50%;
+    position: absolute;
+    top: 55%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+  }
+  .darkenMode {
+    background-color: #10303e;
+    border-radius: 25px;
+    height: 100%;
+    left: 0;
+    opacity: 0.4;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  @media screen and (max-width: 768px) {
+    .bannerContainer {
+      border-radius: 10px;
+      height: 130px;
+    }
+    .bannerText {
+      color: #ffffff;
+      font-size: 1.5em;
+      left: 45%;
+      width: 217px;
+    }
+  
+    .darkenMode {
+      border-radius: 10px;
+    }
+    .bannerImg {
+      border-radius: 10px;
+    }
+  }
+  

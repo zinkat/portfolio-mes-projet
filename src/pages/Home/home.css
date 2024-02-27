@@ -1,0 +1,15 @@
+.mainHome {
+    width: 90%;
+    margin: 50px auto ;
+    max-width: 1240px;
+  }
+  
+  .listCard {
+    /* background-color: #10303e; */
+    border-radius: 25px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 47px;
+    padding: 50px;
+  }
+  
