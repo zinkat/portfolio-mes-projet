@@ -3,8 +3,7 @@ import { useParams, Navigate } from 'react-router-dom'
 import '../FicheProjet/ficheProjet.css'
 import Tag from '../../components/Tags'
 import Collapse from '../../components/Collapse'
-import Carrousel from '../../components/Carrousel'
-
+// import Carrousel from '../../components/Carrousel'
 
 function FicheProjet() {
   /** extrait l'ID du logement à partir de l'URL */
@@ -31,27 +30,57 @@ function FicheProjet() {
     },
   )
 
-  
-
   if (!ficheProjet) {
     return <Navigate replace to="/Error404" />
   }
   return (
     <div className="mainFiche">
-      <Carrousel pictures={ficheProjet?.pictures.map((picture) => require('../../' + picture))} />
-{console.log(ficheProjet?.pictures)}
+      {/* <Carrousel
+        pictures={ficheProjet?.pictures.map((picture) =>
+          require('../../' + picture),
+        )}
+      /> */}
+      {/* {console.log(ficheProjet?.pictures)} */}
       <div className="title">
         <h1> {ficheProjet?.title}</h1>
       </div>
       <div className="infoPropietaire">
+        <h2>Description du projet :</h2>
         <span className="nomProprietaire">{ficheProjet?.description}</span>
+        <span className="nomProprietaire">
+          <a
+            href={ficheProjet?.figmalink}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Maquettes Figma
+          </a>
+        </span>
       </div>
+      <div className="linkCode">
+        <a
+          href={ficheProjet?.githubLink}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Lien code source Github
+        </a>
+
+        <a
+          href={ficheProjet?.liveLink}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Live link Github
+        </a>
+      </div>
+
       <div className="TagContent">
         <div className="tagsLogement">{tagsProjet}</div>
       </div>
 
       <div className="description-equipements">
-        <Collapse titre="Missions" description={missionsProjet} />
+        <Collapse titre="Taches réalisées" description={missionsProjet} />
         <Collapse titre="Compétences acquises" description={skillsProjet} />
       </div>
     </div>

@@ -9,7 +9,7 @@
   .title {
     width: 74%;
   }
-  .title > h1 {
+h1 {
     color:#10303e;
     font-size: 2.2em;
     font-style: normal;
@@ -18,20 +18,15 @@
     margin-top: 30px;
     margin-bottom: 5px;
   }
-  .title > p {
+  h2 {
     color: #10303e;
-    font-family: Montserrat;
-    font-size: 1.13em;
-    font-style: normal;
-    font-weight: 500;
     line-height: 142.6%; /* 25.668px */
-    margin-top: 0px;
+    margin: 10px 0px;
   }
   .infoPropietaire {
     width: 100%;
-
-    align-items: center
- 
+    align-items: center;
+    margin: 20px;
   }
   
   .nomProprietaire {
@@ -39,8 +34,15 @@
     font-size: 1.12em;
     text-align: right;
     width: 92px;
+
   }
-  
+  .nomProprietaire a{
+    color: #065476;
+    text-decoration:underline;
+    font-size: 0.8em;
+    margin-left: 10px;
+    font-weight: 600;
+  }
   .description-equipements {
     display: inline-flex;
     gap: 0 65px;
@@ -49,7 +51,18 @@
     margin-top: 25px;
     width: 100%;
   }
-  
+  .linkCode{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px;
+    width: 100%;
+  }
+  .linkCode a {
+    color: #065476;
+    text-decoration:underline;
+    font-weight: 600;
+  }
   .TagContent {
     width: 80%;
   }

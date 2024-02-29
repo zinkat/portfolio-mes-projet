@@ -3,14 +3,19 @@
     "id": "1",
     "title": "Transformez une maquette en site web avec HTML & CSS",
     "image": "assets/booki.png",
-    "description": "L’entreprise Booki souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
+    "description": "En tant que développeur web au sein de la start-up Booki. L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.je suis chargée d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, je travaille en collaboration avec l’UI designer.",
+    "figmalink": "https://www.figma.com/file/r9YJyUkpVdrxzBBKGH7reY/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?node-id=3%3A0&t=aSSTnHDTI9f1lLka-0",
+    "periode": "",
     "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png", "assets/projet1/booki3.png"],
     "missions": [
-      "Mission 1: chargé d'intégrer l'interface du site avec du code HTML et CSS",
-      "Mission 2: développer un site responsive"
+      "Mises en place de l'environnement de développement importation de la police via Google Fonts ainsi que la   bibliothèque des icônes font awesome. ",
+      "Utilisation des balise sémantique pour bien structurer la page. ",
+      "intégration de la version Desktop ensuite tablette et mobile. ",
+      "Validation du code sur le validateurs de w3c "
     ],
     "skillsAcquired": [
       "Intégrer du contenu conformément à une maquette",
+      "Implémenter une interface responsive",
       "Implémenter une interface responsive"
     ],
     "technologiesUsed": ["HTML", "CSS", "Responsive design "],
@@ -98,9 +103,9 @@
   },
   {
     "id": "6",
-    "title": "Développez un algorithme de recherche en JavaScript",
+    "title": "en cours de finalisation de mon portfolio",
     "image": "assets/billed.png",
-    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "description": "",
     "pictures": ["assets/projet1/billed1.png", 
     "assets/projet1/billed2.png","assets/projet1/billed3.png"],
     "missions": [
@@ -118,9 +123,9 @@
 
   {
     "id": "7",
-    "title": "Développez un algorithme de recherche en JavaScript",
+    "title": "en cours de finalisation de mon portfolio",
     "image": "assets/learnhome.png",
-    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "description": "",
     "pictures": ["assets/projet1/learnhome1.png", "assets/projet1/learnhome2.png", "assets/projet1/learnhome3.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
@@ -136,9 +141,9 @@
   },
   {
     "id": "8",
-    "title": "Développez un algorithme de recherche en JavaScript",
+    "title": "en cours de finalisation de mon portfolio",
     "image": "assets/kasa.png",
-    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "description": "",
     "pictures": ["assets/projet1/kasa1.png", "assets/projet1/kasa2.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
@@ -154,9 +159,9 @@
   },
   {
     "id": "9",
-    "title": "Développez un algorithme de recherche en JavaScript",
+    "title": "en cours de finalisation de mon portfolio",
     "image": "assets/sportsee.png",
-    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
+    "description": "",
     "pictures": ["assets/projet1/sportsee1.png", "assets/projet1/sportsee2.png", "assets/projet1/sportsee3.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
@@ -172,10 +177,10 @@
   },
   {
     "id": "10",
-    "title": "Développez un algorithme de recherche en JavaScript",
+    "title": "en cours de finalisation de mon portfolio",
     "image": "assets/argentbank.png",
-    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "description": "",
+    "pictures": ["assets/projet1/argentbank.png", "assets/projet1/argentbank1.png", "assets/projet1/argentbank3.png", "assets/projet1/argentbank4.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "
@@ -190,10 +195,10 @@
   },
   {
     "id": "11",
-    "title": "Développez un algorithme de recherche en JavaScript",
+    "title": "en cours de finalisation de mon portfolio",
     "image": "assets/hrnet.png",
-    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png"],
+    "description": "",
+    "pictures": ["assets/projet1/hrnet1.png", "assets/projet1/hrnet2.png", "assets/projet1/hrnet3.png"],
     "missions": [
       "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
       "Mission 2: Programmer en JavaScript "

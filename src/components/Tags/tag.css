@@ -3,11 +3,11 @@
     border-radius: 10px;
     color: #ffffffc2;
     display: inline-block;
-    font-size: 14px;
+    font-size: 16px;
     margin: 8px;
-    padding: 3px 10px;
+    padding: 6px 10px;
     text-align: center;
-    min-width: 115px;
+    min-width: 120px;
   }
   .tag:first-of-type {
     margin-left: 0;
