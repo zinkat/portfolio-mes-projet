@@ -4,7 +4,7 @@ import HTLM from '../../assets/html-5.png'
 import CSS from '../../assets/css-3.png'
 import Javascript from '../../assets/script-java.png'
 import Reactjs from '../../assets/react.png'
-import Redux from '../../assets/redux.jpg'
+import Redux from '../../assets/redux.png'
 import Nodejs from '../../assets/nodejs.png'
 import NPM from '../../assets/npm.png'
 import Figma from '../../assets/figma.png'
@@ -22,7 +22,7 @@ function Apropos() {
           d'applications web.
         </h2>
         <div>
-          j'ai débuté ma carrière dans le domaine de l'économie après avoir
+          j'ai débuté ma carrière après avoir
           obtenu mon DEUG en Sciences Économiques. Pendant 13 ans, j'ai occupé
           des postes en tant que chargée d'audit interne, acquérant ainsi une
           solide expérience dans ce domaine.{' '}
@@ -31,15 +31,15 @@ function Apropos() {
           En janvier 2022, après m'être installée en France en août de l'année
           précédente, j'ai décidé de changer de cap et de me lancer dans une
           nouvelle aventure professionnelle. Animée par ma passion pour la
-          technologie et encouragée par une formation initiale en développement
+          technologie et encouragée par une formation en développement
           web à l'école Ifocop, j'ai entrepris une reconversion dans le
           développement d'applications web.
         </div>
 
         <div>
           En février 2024, j'ai conclu avec succès ma formation en développement
-          d'applications JavaScript React, décrochant ainsi un diplôme de niveau
-          bac +3. Cette expérience m'a permis de consolider mes compétences
+          d'applications JavaScript React, décrochant ainsi un diplôme Titre RNCP niveau 6 (Bac+3). 
+          de Openclassrooms Cette expérience m'a permis de consolider mes compétences
           techniques et de me spécialiser davantage dans le développement
           front-end. J'ai acquis une expertise dans la création d'interfaces
           utilisateur réactives et esthétiques, ainsi que dans l'analyse des
