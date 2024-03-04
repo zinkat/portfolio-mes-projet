@@ -15,14 +15,14 @@ function Apropos() {
   return (
     <div className="mainAbout">
       <div className="drop">
-        <h1>Bonjour 👋🏻 et bienvenue sur ma page !</h1>
+        <h1>Bonjour👋🏻et bienvenue sur ma page !</h1>
         <h2>
           {' '}
           Je m'appelle Zineb et je suis passionnée par le développement
           d'applications web.
         </h2>
         <div>
-          j'ai débuté ma carrière après avoir
+          J'ai débuté ma carrière après avoir
           obtenu mon DEUG en Sciences Économiques. Pendant 13 ans, j'ai occupé
           des postes en tant que chargée d'audit interne, acquérant ainsi une
           solide expérience dans ce domaine.{' '}
@@ -38,7 +38,7 @@ function Apropos() {
 
         <div>
           En février 2024, j'ai conclu avec succès ma formation en développement
-          d'applications JavaScript React, décrochant ainsi un diplôme stron Titre RNCP niveau 6 (Bac+3). 
+          d'applications JavaScript React, décrochant ainsi un diplôme stron Titre RNCP niveau 6 (Bac+3)
           de Openclassrooms Cette expérience m'a permis de consolider mes compétences
           techniques et de me spécialiser davantage dans le développement
           front-end. J'ai acquis une expertise dans la création d'interfaces

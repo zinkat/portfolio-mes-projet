@@ -86,6 +86,7 @@ h2 {
   font-size: 1.12em;
   text-align: right;
   width: 92px;
+  line-height: 140%;
  
 }
 
@@ -139,7 +140,7 @@ white-space: pre-wrap;
   .title > h1 {
     color: #10303e;
     font-family: Montserrat;
-    font-size: 1.225em;
+    font-size: 1.5em;
     font-style: normal;
     font-weight: 600;
     line-height: 142.6%;
@@ -180,6 +181,7 @@ white-space: pre-wrap;
     font-size: 1em;
     text-align: right;
     width: 73px;
+    line-height: 140%;
   }
 
 

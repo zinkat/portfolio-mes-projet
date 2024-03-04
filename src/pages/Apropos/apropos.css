@@ -5,6 +5,7 @@
   max-width: 1240px;
   background-color: white;
   border-radius: 20px;
+  text-align:justify;
 }
 
 .drop {
@@ -15,6 +16,7 @@
   flex-direction: column;
   gap: 15px;
   line-height: 140%;
+ 
 }
 .icondiv{
   display: flex;
@@ -45,13 +47,19 @@ button:hover {
     flex-direction: column;
     gap: 10px;
   }
-
+  .drop > h1{
+    font-size: 1.5em;
+  }
   .icondiv{
     flex-wrap: wrap;
    gap: 10px;
   }
+  .drop > h2{
+    font-size: 1.1em;
+  }
   .mainAbout {
     width: 90%;
     margin: 20px auto;
+    text-align:left;
   }
 }
