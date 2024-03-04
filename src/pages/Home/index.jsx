@@ -1,6 +1,7 @@
 import Card from '../../components/card/index'
 import Banner from '../../components/Banner'
-import BannerHome from '../../assets/Home.png'
+//import BannerHome from '../../assets/Home.png'
+import BannerHome from '../../assets/banner.jpg'
 import '../Home/home.css'
 import { NavLink } from 'react-router-dom'
 import DataProjet from '../../data/projets.json'

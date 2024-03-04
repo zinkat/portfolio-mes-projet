@@ -5,11 +5,6 @@
   min-height: 280px;
   position: relative;
   width: 100%;
-  /* background: linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 0) 0%,
-    rgba(0, 0, 0, 0.5) 100%
-  ); */
 }
 .cardImg {
   border-radius: 10px;

@@ -1,164 +1,222 @@
 .mainFiche {
-    width: 86%;
-    max-width: 1240px;
-    margin:50px auto;
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  .title {
-    width: 74%;
-  }
+  width: 86%;
+  max-width: 1240px;
+  margin: 20px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.cloud {
+  position: relative;
+  width: 160px;
+  height: 130px;
+  background-color: white;
+  object-fit: cover;
+  border-radius: 20%;
+  /* Animation pour faire bouger le nuage */
+  animation: moveCloud 20s linear infinite  alternate;
+}
+
+.list{
+  margin: 5px 20px;
+  font-size: 0.9em;
+  font-weight: 600;
+  color: #065476;
+}
+ /* Création des petits cercles pour représenter les parties du nuage */
+.cloud::before,
+.cloud::after {
+  content: '';
+  position: absolute;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.cloud::before {
+  width: 40px;
+  height: 40px;
+  top: -20px;
+  left: 50px;
+}
+
+.cloud::after {
+  width: 60px;
+  height: 60px;
+  top: -30px;
+  left: 120px;
+}
+
+/* Animation pour faire bouger le nuage */
+@keyframes moveCloud {
+  0% { left: 0px; }
+  100% { left: 80%; }
+} */
+
+.title {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 h1 {
-    color:#10303e;
-    font-size: 2.2em;
+  color: #10303e;
+  font-size: 2.2em;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 142.6%; /* 51.336px */
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+h2 {
+  color: #10303e;
+  line-height: 142.6%; /* 25.668px */
+  margin-bottom: 10px;
+}
+.infoProjet {
+  width: 100%;
+  align-items: center;
+  margin: 10px 20px;
+  text-align: justify;
+  line-height: 1.3;
+}
+
+.nomProjet {
+  color: #10303e;
+  font-size: 1.12em;
+  text-align: right;
+  width: 92px;
+ 
+}
+
+.nomProjet a {
+  color: #065476;
+  text-decoration: underline;
+  font-size: 0.8em;
+  margin-left: 10px;
+  font-weight: 600;
+}
+.description-equipements {
+  display: inline-flex;
+  gap: 0 65px;
+  line-height: 1.6;
+white-space: pre-wrap;
+  margin-top: 25px;
+  width: 100%;
+}
+.linkCode {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin:10px 20px;
+  width: 100%;
+}
+.linkCode a {
+  color: #065476;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.TagContent {
+  width: 80%;
+}
+/* .starContent {
+  width: 20%;
+} */
+.description-equipements > .collapse {
+  width: 50%;
+}
+
+@media screen and (max-width: 768px) {
+  .title {
+    width: 90%;
+    margin: auto;
+  }
+  .title > h1 {
+    color: #10303e;
+    font-family: Montserrat;
+    font-size: 1.225em;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 142.6%;
+  }
+
+  .title > p {
+    color: #10303e;
+    font-family: Montserrat;
+    font-size: 0.9em;
     font-style: normal;
     font-weight: 500;
-    line-height: 142.6%; /* 51.336px */
-    margin-top: 30px;
-    margin-bottom: 5px;
+    line-height: 142.6%;
+    margin-top: 0px;
   }
-  h2 {
-    color: #10303e;
-    line-height: 142.6%; /* 25.668px */
-    margin: 10px 0px;
-  }
-  .infoPropietaire {
-    width: 100%;
-    align-items: center;
-    margin: 20px;
-  }
-  
-  .nomProprietaire {
-    color:#10303e;
-    font-size: 1.12em;
-    text-align: right;
-    width: 92px;
 
+  .tagsLogement {
+    width: 100%;
   }
-  .nomProprietaire a{
-    color: #065476;
-    text-decoration:underline;
-    font-size: 0.8em;
-    margin-left: 10px;
-    font-weight: 600;
+
+  /* .mainFiche :nth-child(1) {
+    order: 1;
+  }
+  .mainFiche :nth-child(2) {
+    order: 2;
+  }
+  .mainFiche :nth-child(4) {
+    order: 3;
+  }
+  .mainFiche :nth-child(5) {
+    order: 3;
+  }
+  .mainFiche :nth-child(3) {
+    order: 4;
+  }
+
+  .mainFiche :nth-child(6) {
+    order: 6;
+  } */
+
+
+  .infoProjet {
+    width: 90%;
+    gap: 8px;
+    text-align: left;
   }
   .description-equipements {
-    display: inline-flex;
-    gap: 0 65px;
-    line-height: 22.5px;
-    list-style: none;
-    margin-top: 25px;
-    width: 100%;
-  }
-  .linkCode{
-    display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     gap: 10px;
-    margin: 20px;
+  }
+
+  .description-equipements > .collapse {
     width: 100%;
   }
-  .linkCode a {
-    color: #065476;
-    text-decoration:underline;
-    font-weight: 600;
+
+  .nomProjet {
+    font-size: 1em;
+    text-align: right;
+    width: 73px;
   }
+  /* .photoPropietaire {
+    border-radius: 50%;
+    height: 35px;
+    object-fit: cover;
+    width: 35px;
+  } */
+
   .TagContent {
-    width: 80%;
+    width: 100%;
   }
-  .starContent {
-    width: 20%;
+  .header-collapse {
+    margin-bottom: 10px;
+    height: 40px;
   }
-  .description-equipements > .collapse {
-    width: 50%;
+
+  @keyframes moveCloud {
+    0% { left: 0px; }
+    100% { left: 50%; }
+  } 
+  h2 {
+    font-size: 1em;
   }
-  
-  @media screen  and (max-width: 768px) {
-    .title {
-      width: 100%;
-    }
-    .title > h1 {
-      color: #ff6060;
-      font-family: Montserrat;
-      font-size: 1.225em;
-      font-style: normal;
-      font-weight: 500;
-      line-height: 142.6%;
-    }
-  
-    .title > p {
-      color: #ff6060;
-      font-family: Montserrat;
-      font-size: 0.9em;
-      font-style: normal;
-      font-weight: 500;
-      line-height: 142.6%;
-      margin-top: 0px;
-    }
-  
-    .tagsLogement {
-      width: 100%;
-    }
-  
-    .mainFiche :nth-child(1) {
-      order: 1;
-    }
-    .mainFiche :nth-child(2) {
-      order: 2;
-    }
-    .mainFiche :nth-child(4) {
-      order: 3;
-    }
-    .mainFiche :nth-child(5) {
-      order: 3;
-    }
-    .mainFiche :nth-child(3) {
-      order: 4;
-    }
-  
-    .mainFiche :nth-child(6) {
-      order: 6;
-    }
-  
-    .starContent {
-      width: 40%;
-      display: flex;
-      align-items: center;
-      margin-top: 22px;
-    }
-    .infoPropietaire {
-      width: 60%;
-      gap: 8px;
-    }
-    .description-equipements {
-      flex-wrap: wrap;
-      gap: 10px;
-    }
-  
-    .description-equipements > .collapse {
-      width: 100%;
-    }
-  
-    .nomProprietaire {
-      font-size: 0.8em;
-      text-align: right;
-      width: 73px;
-    }
-    .photoPropietaire {
-      border-radius: 50%;
-      height: 35px;
-      object-fit: cover;
-      width: 35px;
-     
-    }
-  
-    .TagContent {
-      width: 100%;
-    }
-    .header-collapse {
-      margin-bottom: 10px;
-      height: 40px;
-    
-    }
+  .linkCode {
+  font-size: 14px;
   }
-  
+}

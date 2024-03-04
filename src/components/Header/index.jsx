@@ -7,8 +7,8 @@ function Header() {
       <header className='header'>
         <img className="logo" src={Logo} alt="logo" />
         <nav className='nav'>
-          <NavLink  to="/portfolio-mes-projet">Portfolio</NavLink>
-          <NavLink to="#">A propos</NavLink>
+          <NavLink  to="/portfolio-mes-projet">PORTFOLIO</NavLink>
+          <NavLink to="/Apropos">A PROPOS</NavLink>
         </nav>
       </header>
     )

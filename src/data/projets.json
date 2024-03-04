@@ -1,22 +1,22 @@
 [
   {
     "id": "1",
-    "title": "Transformez une maquette en site web avec HTML & CSS",
+    "title": "Transformer une maquette en site web avec HTML & CSS",
     "image": "assets/booki.png",
-    "description": "En tant que développeur web au sein de la start-up Booki. L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.je suis chargée d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, je travaille en collaboration avec l’UI designer.",
+    "description": "En tant que développeur web chez Booki, j'ai eu l'opportunité de contribuer au développement d'un site Internet visant à aider les utilisateurs à trouver des hébergements et des activités dans la ville de leur choix. Mon rôle consistait à intégrer l'interface du site en utilisant du code HTML et CSS, en étroite collaboration avec l'UI designer.",
     "figmalink": "https://www.figma.com/file/r9YJyUkpVdrxzBBKGH7reY/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?node-id=3%3A0&t=aSSTnHDTI9f1lLka-0",
-    "periode": "",
-    "pictures": ["assets/projet1/booki1.png", "assets/projet1/booki2.png", "assets/projet1/booki3.png"],
+    "periode": ["Date de début : 19 Mars 2023", "Date de fin : 17 Avril 2023"],
     "missions": [
-      "Mises en place de l'environnement de développement importation de la police via Google Fonts ainsi que la   bibliothèque des icônes font awesome. ",
-      "Utilisation des balise sémantique pour bien structurer la page. ",
-      "intégration de la version Desktop ensuite tablette et mobile. ",
-      "Validation du code sur le validateurs de w3c "
+      "▪️ Configuration de l'environnement de développement, y compris l'importation de polices via Google Fonts et la bibliothèque d'icônes Font Awesome.",
+      "▪️ Utilisation de balises sémantiques pour une meilleure structuration de la page.",
+      "▪️ Intégration de la version desktop, puis adaptation pour les tablettes et les appareils mobiles.",
+      "▪️ Validation du code à l'aide du validateur W3C."
     ],
     "skillsAcquired": [
-      "Intégrer du contenu conformément à une maquette",
-      "Implémenter une interface responsive",
-      "Implémenter une interface responsive"
+      "▪️ Intégration conforme à une maquette.",
+      "▪️ Implémentation d'une interface responsive.",
+      "▪️ Gestion des médias et des assets dans un projet web",
+      "▪️ Maîtrise des bonnes pratiques en matière d'intégration web."
     ],
     "technologiesUsed": ["HTML", "CSS", "Responsive design "],
     "githubLink": "https://github.com/zinkat/OC-Projet1-Booki.git",
@@ -25,38 +25,61 @@
 
   {
     "id": "2",
-    "title": "Dynamisez une page web avec des animations CSS",
+    "title": "Dynamiser une page web avec des animations CSS",
     "image": "assets/ohmyfood.png",
-    "description": " développer un site “mobile first” qui répertorie les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Finis, les temps d'attente au restaurant !",
-    "pictures": ["assets/projet1/ohmyfood1.png", "assets/projet1/ohmyfood2.png","assets/projet1/ohmyfood3.png", "assets/projet1/ohmyfood4.png" ,"assets/projet1/ohmyfood5.png", "assets/projet1/ohmyfood6.png"],
+    "description": "Dans le cadre d'une jeune startup cherchant à s'imposer sur le marché de la restauration, j'ai été chargé de développer un site répertoriant les menus de restaurants gastronomiques à Paris. Le site devait être responsive et adopter une approche 'mobile first'. Mon objectif principal était d'ajouter des animations CSS soignées pour améliorer l'expérience utilisateur, conformément aux maquettes fournies par l'UX designer.",
+    "figmalink": "https://www.figma.com/file/t4449fzDnwGYmzuwQdu87V/Projet-3-FR---Ohmyfood?node-id=0%3A1",
+    "periode": ["Date de début : 19 Avril 2023", "Date de fin : 09 Mai 2023"],
     "missions": [
-      "Mission 1: développer un site “mobile first”",
-      "Mission 2: dynamiser le site avec des animations soignées Css "
+      "▪️ Intégration des maquettes en respectant les principes du responsive design.",
+      "▪️ Création d'animations CSS avancées pour dynamiser la page d'accueil et le menu.",
+      "▪️ Mise en place d'un 'loader' animé apparaissant pendant 1 à 3 secondes au chargement de la page.",
+      "▪️ Développement d'animations pour faire apparaître progressivement les plats sur la page.",
+      "▪️ Mise en œuvre d'animations pour la sélection des plats et la visualisation de l'icone de validation.",
+      "▪️ Création de trois animations pour le loader :",
+      " - un background animé aux couleurs de la charte graphique",
+      " - Un défilement du mot 'Ohmyfood'",
+      " - Une animation de rotation pour l'icone de fourchette et couteau.",
+      "▪️ Utilisation de GitHub pour le suivi du projet et son hébergement sur GitHub Pages."
     ],
     "skillsAcquired": [
-      "Mettre en œuvre des effets CSS graphiques avancés",
-      "Assurer la cohérence graphique d'un site web",
-      "Mettre en place une structure de navigation pour un site web"
+      "▪️ Maîtrise des techniques avancées d'animation en CSS.",
+      "▪️ Développement d'un site 'mobile first' et responsive.",
+      "▪️ Structuration de la navigation d'un site web.",
+      "▪️ Gestion de la cohérence graphique d'un site.",
+      "▪️ Utilisation de Git et GitHub pour le suivi et l'hébergement du projet.",
+      "▪️ Configuration de l'environnement Front-End."
     ],
-    "technologiesUsed": ["HTML", "CSS / Sass", "@keyframes"],
+    "technologiesUsed": [
+      "HTML",
+      "CSS / Sass",
+      "@keyframes",
+      "GitHub"
+    ],
     "githubLink": "https://github.com/zinkat/ohmyfood-p3-oc-sass.git",
     "liveLink": "https://zinkat.github.io/ohmyfood-p3-oc-sass/"
   },
 
   {
     "id": "3",
-    "title": "Créez une landing page avec Javascript",
+    "title": "Créer une landing page avec Javascript",
     "image": "assets/gameon.png",
-    "description": " prendre le relais pour compléter la partie Front-End de la nouvelle page d'accueil et l'inscription GameOn",
-    "pictures": ["assets/projet1/game1.png", "assets/projet1/game2.png"],
+    "description": "En tant que développeur Front-End junior chez GameOn, je suis chargé de compléter la partie Front-End d'une nouvelle page d'accueil et d'inscription aux concours. Le travail précédent a été partiellement réalisé par Jason, mais il n'a pas été en mesure de terminer avant son départ. je dois ajouter le code JavaScript manquant pour rendre le formulaire pleinement fonctionnel, en me basant sur la structure HTML et le style CSS déjà établis par Jason.",
+    "figmalink": "https://www.figma.com/file/B7NKBDvSI18uoMLJgpnh48/UI-Design-GameOn-FR?node-id=106%3A630",
+    "periode": ["Date de début : 11 Mai 2023", "Date de fin : 30 Mai 2023"],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Compléter le code JavaScript manquant pour rendre le formulaire d'inscription pleinement fonctionnel.",
+      "▪️ Travailler sur un repo GitHub forké et suivre les issues créées par Jason pour savoir ce qu'il reste à faire.",
+      "▪️ Utiliser des fichiers séparés pour le HTML, le CSS et le JavaScript.",
+      "▪️ Commenter le code de manière appropriée, en décrivant chaque fonction et chaque classe, ainsi que les parties du code nécessitant des explications supplémentaires.",
+      "▪️ Tester manuellement les fonctionnalités, les entrées de formulaire et l'affichage responsive."
     ],
     "skillsAcquired": [
-      "Mettre en œuvre des effets CSS graphiques avancés",
-      "Assurer la cohérence graphique d'un site web",
-      "Mettre en place une structure de navigation pour un site web"
+      "▪️ Programmer en JavaScript en implémentant des fonctionnalités interactives pour rendre le formulaire d'inscription pleinement fonctionnel.",
+      "▪️ Comprendre et utiliser les issues GitHub pour suivre le travail restant à accomplir.",
+      "▪️ Organiser les fichiers de projet en utilisant des fichiers séparés pour le HTML, le CSS et le JavaScript.",
+      "▪️ Commenter le code de manière significative pour faciliter la compréhension et la maintenance.",
+      "▪️ Effectuer des tests manuels pour assurer la qualité des fonctionnalités, des entrées de formulaire et de l'affichage responsive."
     ],
     "technologiesUsed": ["HTML", "CSS", "Javascript"],
     "githubLink": "https://github.com/zinkat/Projet-4-GameOn.git",
@@ -64,15 +87,24 @@
   },
   {
     "id": "4",
-    "title": "Créez un site accessible pour une plateforme de photographes",
+    "title": "Créer un site accessible pour une plateforme de photographes",
     "image": "assets/fisheye.png",
-    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/fisheye1.png","assets/projet1/fisheye2.png","assets/projet1/fisheye3.png","assets/projet1/fisheye4.png"],
+    "description": "En tant que développeur junior chez Techasite, j'ai pour mission de créer un prototype fonctionnel du nouveau site web de FishEye, une plateforme pour les photographes indépendants. je suis chargée de fournir tout le HTML, le CSS et le JavaScript nécessaires pour le prototype. mon objectif est de respecter les maquettes approuvées et de garantir que le site fonctionne correctement, en mettant particulièrement l'accent sur l'accessibilité pour les utilisateurs malvoyants.",
+
+    "figmalink": "https://www.figma.com/file/Q3yNeD7WTK9QHDldg9vaRl/UI-Design-FishEye-FR?node-id=0%3A1",
+    "periode": ["Date de début : 30 Mai 2023", "Date de fin : 10 Juillet 2023"],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Créer la page d'accueil avec une liste de tous les photographes, leurs informations et une image miniature de leur choix.",
+      "▪️ Générer dynamiquement les pages des photographes avec une galerie de leurs travaux (photos et vidéos), triable par popularité ou par titre.",
+      "▪️ Mettre en place une lightbox pour afficher les médias en plein écran avec des boutons de navigation et une fermeture accessible au clavier.",
+      "▪️ Implémenter un formulaire de contact modal pour chaque photographe, avec des champs pour les noms, l'adresse électronique et le message.",
+      "▪️ Assurer que le site est responsive et respecte les contraintes d'accessibilité, notamment en ajoutant des descriptions textuelles aux images et en utilisant des éléments HTML sémantiques."
     ],
     "skillsAcquired": [
+      "▪️ Assurer l'accessibilité d'un site web en suivant les bonnes pratiques et en utilisant des attributs ARIA.",
+      "▪️ Développer une application web modulaire en utilisant des design patterns comme le Factory Method pour la création des médias.",
+      "▪️ Écrire du code JavaScript maintenable en organisant les fichiers en différents modules et en utilisant des fonctionnalités modernes d'ES6.",
+      "▪️ Gérer les évènements d'un site avec JavaScript en configurant les interactions utilisateur et en garantissant une navigation fluide et accessible.",
       "Assurer l'accessibilité d'un site web",
       "Développer une application web modulaire avec des design patterns",
       "Ecrire du code JavaScript maintenable",
@@ -85,17 +117,28 @@
 
   {
     "id": "5",
-    "title": "Développez un algorithme de recherche en JavaScript",
+    "title": "Développer un algorithme de recherche en JavaScript",
     "image": "assets/petitplat.png",
-    "description": "construire un prototype fonctionnel d'un nouveau site web que nous pourrons présenter à FishEye lors de notre prochaine réunion avec les clients. Tu seras chargé de fournir tout le HTML, le CSS et le JavaScript nécessaires au prototype.",
-    "pictures": ["assets/projet1/pp1.png", "assets/projet1/pp2.png", "assets/projet1/pp3.png"],
+    "description": "Je suis freelance et je viens d’être missionnée par l’entreprise “Les petits plats” en tant que Développeur Front-end pour une mission de 3 mois. Après avoir édité des livres de cuisine pendant plusieurs années, l’entreprise se lance dans la création de son propre site de recettes de cuisine. Sandra, cheffe de projet, est en charge de la digitalisation de l'entreprise avec la création de ce site web. Pour l’instant, elle travaille uniquement avec des freelances comme moi, avant de créer une équipe en interne pour gérer ce projet. Afin de s’assurer que j'ai tout ce dont j'ai besoin, elle m'a envoyé un mail avec les détails de l'algorithme de recherche ainsi que les maquettes du site",
+
+    "figmalink": "https://www.figma.com/file/LY5VQTAqnrAf0bWObOBrt8/Les-petits-plats---Maquette-2.0?type=design&node-id=0%3A1&t=23dNyQrjg9DVtnrM-1",
+    "periode": [
+      "Date de début : 11 Juillet 2023",
+      "Date de fin : 14 Aout 2023"
+    ],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Implémenter la fonctionnalité de recherche en respectant le cas d'utilisation et les maquettes fournies.",
+      "▪️ Créer deux implémentations différentes de l'algorithme de recherche en utilisant une approche avec des boucles natives (while, for...) et une approche avec la programmation fonctionnelle (foreach, filter, map, reduce).",
+      "▪️ Rédiger (une fiche d’investigation de fonctionnalité) décrivant en détail les deux versions de l'algorithme de recherche, y compris des schémas (algorigrammes) pour chaque implémentation.",
+      "▪️ Implémenter les deux versions de l'algorithme de recherche sur des branches distinctes dans Git, en respectant les bonnes pratiques de codage et en veillant à la sécurité du site.",
+      "▪️ Comparer les performances des deux versions de l'algorithme en utilisant un outil tel que Jsben.ch, et recommander l'algorithme optimal en fonction des résultats obtenus."
     ],
     "skillsAcquired": [
-      "Analyser un problème informatique",
-      "Développer un algorithme pour résoudre un problème"
+      "▪️ Analyser un problème informatique en comprenant les besoins des utilisateurs et en traduisant ces besoins en spécifications techniques",
+      "▪️ Développer un algorithme pour résoudre un problème en utilisant différentes approches et en comparant leurs performances.",
+      "▪️ Rédiger des documents techniques décrivant en détail les spécifications et les solutions mises en œuvre.",
+      "▪️ Utiliser des outils de comparaison de performance pour évaluer l'efficacité des solutions développées.",
+      "▪️ Respecter les bonnes pratiques de codage, y compris la modularité, la réutilisabilité du code, et la sécurité."
     ],
     "technologiesUsed": ["HTML", "CSS", "Javascript"],
     "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
@@ -103,112 +146,195 @@
   },
   {
     "id": "6",
-    "title": "en cours de finalisation de mon portfolio",
+    "title": "Débugger et testez un SaaS RH",
     "image": "assets/billed.png",
-    "description": "",
-    "pictures": ["assets/projet1/billed1.png", 
-    "assets/projet1/billed2.png","assets/projet1/billed3.png"],
+    "description": "Je suis développeur front-end chez Billed, une entreprise spécialisée dans les solutions Saas pour les équipes de ressources humaines. Actuellement, je suis assignée à la feature team 'note de frais' pour aider à finaliser une application avant une présentation dans trois semaines.",
+
+    "periode": [
+      "Date de début : 17 Aout 2023",
+      "Date de fin : 6 Septembre 2023"
+    ],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Corriger les bugs identifiés dans le rapport fourni par Jest en utilisant Chrome Debugger.",
+      "▪️ Corriger les bugs identifiés par Leila sur le parcours employé, tels que décrits dans le kanban Notion",
+      "▪️ Ajouter des tests unitaires et d'intégration pour les fichiers Bills et NewBill afin d'éliminer les bugs et d'éviter les régressions.",
+      "▪️ Rédiger un plan de test End-to-End (E2E) pour le parcours employé pour guider Leila. Les tests E2E seront effectués manuellement en raison du manque de temps pour les automatiser.",
+      "▪️ Assurer la création de nouvelles données de test si nécessaire, en utilisant les comptes administrateur et employé préexistants fournis dans le readme du code front-end.",
+      " "
     ],
     "skillsAcquired": [
-      "Analyser un problème informatique",
-      "Développer un algorithme pour résoudre un problème"
+      "▪️ Écrire des tests unitaires avec JavaScript pour assurer le bon fonctionnement des fonctionnalités développées.",
+      "▪️ Rédiger un plan de test End-to-End manuel pour garantir que toutes les fonctionnalités sont testées dans leur ensemble.",
+      "▪️ Utiliser Chrome Debugger pour déboguer une application web et corriger les erreurs identifiées.",
+      "▪️ Écrire des tests d'intégration avec JavaScript pour tester les interactions entre différents composants de l'application.",
+      ""
     ],
-    "technologiesUsed": ["HTML", "CSS", "Javascript"],
-    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
-    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+    "technologiesUsed": ["HTML", "CSS", "Javascript", "Jest"],
+    "githubLink": "https://github.com/zinkat/p9-oc-Debuggez-et-testez-SaaS-RH.git",
+    "liveLink": "https://zinkat.github.io/p9-oc-Debuggez-et-testez-SaaS-RH/"
   },
 
   {
     "id": "7",
-    "title": "en cours de finalisation de mon portfolio",
+    "title": "Définir les besoins pour une app de soutien scolaire",
     "image": "assets/learnhome.png",
-    "description": "",
-    "pictures": ["assets/projet1/learnhome1.png", "assets/projet1/learnhome2.png", "assets/projet1/learnhome3.png"],
+    "description": "Chez Dev4U, j'ai eu l'opportunité de travailler sur un projet passionnant pour Learn@Home, une association dédiée à l'éducation des enfants en difficulté scolaire. Mon rôle consiste à mener à bien la phase de cadrage du projet, en collaborant étroitement avec le client pour comprendre ses besoins spécifiques et traduire ses exigences en solutions numériques innovantes.",
+
+    "figmalink": "https://www.figma.com/file/BGoO7FBLqF5cAQwpxJWc9L/Maquettes-Learn%40home?type=design&node-id=16-498&mode=design",
+    "periode": [
+      "Date de début : 7 Septembre 2023",
+      "Date de fin : 26 Septembre 2023"
+    ],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Analyse approfondie des besoins du client et identification des fonctionnalités essentielles à intégrer dans le site web de Learn@Home.",
+      "▪️ Réalisation des diagrammes de cas d’usage pour chaque fonctionnalité majeure de chaque page : connexion, chat, calendrier, gestionnaire de tâches, tableau de bord.",
+      "▪️ Définition des user stories avec critères d’acceptation pour chaque fonctionnalité.",
+      "▪️ Création de maquettes de site intuitives et ergonomiques, mettant en avant un design simple mais efficace pour assurer une expérience utilisateur optimale sur toutes les plateformes, du desktop au mobile..",
+      "▪️ Utilisation de méthodologies de gestion de projet agiles et mise en place d'un Kanban pour découper le projet en blocs de fonctionnalités et sous-fonctionnalités, facilitant ainsi la planification et le suivi du développement.",
+      "▪️ Préparation et présentation des documents lors de la réunion avec le client."
     ],
     "skillsAcquired": [
-      "Analyser un problème informatique",
-      "Développer un algorithme pour résoudre un problème"
+      "▪️ Analyse approfondie des besoins clients et capacité à traduire ces besoins en spécifications fonctionnelles.",
+      "▪️ Conception de diagrammes de cas d'usage pour représenter les interactions utilisateur-système de manière claire et précise.",
+      "▪️ Élaboration de user stories avec des critères d'acceptation détaillés pour définir les fonctionnalités du système.",
+      "▪️ Maîtrise des outils de conception de maquettes, tels que Figma, pour créer des interfaces utilisateur attrayantes et conviviales.",
+      "▪️ Utilisation efficace des méthodologies de gestion de projet agile, telles que le Kanban, pour organiser et suivre le développement des fonctionnalités.",
+      "▪️ Modéliser une solution technique pour un client.",
+      "▪️ Communication efficace avec les clients pour comprendre leurs besoins et présenter les solutions proposées."
     ],
-    "technologiesUsed": ["HTML", "CSS", "Javascript"],
-    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
-    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+    "technologiesUsed": ["Notion", "Figma", "Javascript"],
+    "githubLink": "https://github.com/zinkat/definir-les-besoins-pour-une-app-learn-home.git",
+    "liveLink": ""
   },
   {
     "id": "8",
-    "title": "en cours de finalisation de mon portfolio",
+    "title": "Développer une application Web avec React et React Router",
     "image": "assets/kasa.png",
-    "description": "",
-    "pictures": ["assets/projet1/kasa1.png", "assets/projet1/kasa2.png"],
+    "description": "En tant que développeur front-end freelance, j'ai été chargé par Kasa de développer leur nouvelle plateforme web de location d'appartements entre particuliers. Le projet implique une refonte totale du site existant, avec une transition vers une stack complète en JavaScript avec NodeJS côté back-end et React côté front-end.",
+
+    "figmalink": "https://www.figma.com/file/2BZEoBhyxt5IwZgRn0wGsL/Kasa_FR?type=design&node-id=0-1&mode=design&t=1KgUwWWFtuAVbsJ5-0",
+    "periode": [
+      "Date de début : 2 Octobre 2023",
+      "Date de fin : 30 Octobre 2023"
+    ],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Développer l'ensemble de l'application front-end en utilisant React et React Router.",
+      "▪️ Transformer les maquettes Figma fournies par le designer en composants React fonctionnels et réutilisables, en assurant une parfaite correspondance visuelle avec les maquettes.",
+      "▪️ Utiliser les données extraites des 20 dernières annonces de logements pour construire les différentes fonctionnalités de l'application, telles que l'affichage des logements disponibles et leurs détails.",
+      "▪️ Intégrer les contraintes fonctionnelles spécifiées par le designer, notamment le comportement de la galerie d'images et des composants Collapse, en veillant à ce que l'expérience utilisateur soit fluide et intuitive.",
+      "▪️ Garantir un code de qualité en suivant les guidelines de développement de Kasa, en utilisant des composants modulaires et réutilisables, en évitant les erreurs ou les warnings dans la console, et en assurant une bonne gestion de l'état et des événements dans l'application."
     ],
     "skillsAcquired": [
-      "Analyser un problème informatique",
-      "Développer un algorithme pour résoudre un problème"
+      "▪️ Maîtrise du développement d'applications web avec React et React Router.",
+      "▪️ Expérience dans l'utilisation de données JSON pour alimenter une application front-end.",
+      "▪️ Compétence en intégration de designs complexes à partir de maquettes Figma.",
+      "▪️ Capacité à respecter des contraintes fonctionnelles spécifiques tout en maintenant un code de qualité."
     ],
-    "technologiesUsed": ["HTML", "CSS", "Javascript"],
-    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
-    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+    "technologiesUsed": ["JSX", "CSS", "Javascript", "React", "React Router"],
+    "githubLink": "https://github.com/zinkat/projet-11-kasa-creation-application-React.git",
+    "liveLink": ""
   },
   {
     "id": "9",
-    "title": "en cours de finalisation de mon portfolio",
+    "title": "Développer un tableau de bord d'analytics avec React",
     "image": "assets/sportsee.png",
-    "description": "",
-    "pictures": ["assets/projet1/sportsee1.png", "assets/projet1/sportsee2.png", "assets/projet1/sportsee3.png"],
+    "description": "Je travaille en tant que développeur chez SportSee, une startup spécialisée dans le coaching sportif. Actuellement, l'entreprise se prépare à lancer une nouvelle version de la page profil utilisateur. Cette nouvelle page permettra aux utilisateurs de suivre le nombre de sessions réalisées et le nombre de calories brûlées. Mon rôle dans ce projet est de développer la page profil en utilisant React. L'objectif est de créer une interface conviviale et performante pour permettre aux utilisateurs de suivre facilement leur activité sportive.",
+
+    "figmalink": "https://www.figma.com/file/BMomGVZqLZb811mDMShpLu/UI-design-Sportify-FR?node-id=0%3A1",
+    "periode": [
+      "Date de début : 03 Novembre 2023",
+      "Date de fin : 27 Novembre 2023"
+    ],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Développer la nouvelle version de la page profil utilisateur en utilisant React, en suivant les maquettes fournies et les User Stories définies dans le kanban.",
+      "▪️ Implémenter des graphiques pour visualiser l'activité sportive de l'utilisateur en utilisant D3 ou Recharts, en veillant à ce que les données soient claires et faciles à comprendre.",
+      "▪️ Se concentrer sur la partie desktop de l'intégration CSS, en assurant que la page soit lisible sur les écrans d'au moins 1024 par 780 pixels.",
+      "▪️ Créer un service distinct pour gérer les appels HTTP vers le backend, en utilisant Fetch, et en veillant à ce que les appels soient réalisés en dehors des composants React.",
+      "▪️ Commencer par créer un mock des données de l'API et, une fois le projet fonctionnel, intégrer l'API backend en standardisant les données pour assurer leur bonne utilisation dans l'application.",
+      "▪️ Documenter le projet pour faciliter la collaboration avec l'équipe, en fournissant un Readme, de la JSDoc ou des proptypes."
     ],
     "skillsAcquired": [
-      "Analyser un problème informatique",
-      "Développer un algorithme pour résoudre un problème"
+      "▪️ Assurer la qualité des données d'une application en standardisant les données provenant de différentes sources.",
+      "▪️ Développer des éléments graphiques avancés en utilisant des bibliothèques JavaScript telles que Recharts.",
+      "▪️ Interagir avec un service Web en créant un service dédié pour gérer les appels HTTP vers le backend.",
+      "▪️ Documenter un projet en utilisant différentes méthodes pour assurer la compréhension et la collaboration au sein de l'équipe de développement."
     ],
-    "technologiesUsed": ["HTML", "CSS", "Javascript"],
-    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
-    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+    "technologiesUsed": [
+      "JSX",
+      "CSS",
+      "Javascript",
+      "React",
+      "NodeJs",
+      "JSDoc"
+    ],
+    "githubLink": "https://github.com/zinkat/projet12-developpez-TDB-analytics-react.git",
+    "liveLink": ""
   },
   {
     "id": "10",
-    "title": "en cours de finalisation de mon portfolio",
+    "title": "Utilisez une API pour un compte utilisateur bancaire avec React",
     "image": "assets/argentbank.png",
-    "description": "",
-    "pictures": ["assets/projet1/argentbank.png", "assets/projet1/argentbank1.png", "assets/projet1/argentbank3.png", "assets/projet1/argentbank4.png"],
+    "description": "Je travaille chez Remede Agency en tant que développeur front-end, une agence spécialisée dans le développement d'applications web. L'équipe est principalement composée de développeurs back-end. Mon rôle dans ce projet consiste à créer une application web complète et responsive avec React pour la phase 1, qui concerne l'authentification des utilisateurs. Je suis également chargé de spécifier les endpoints d’API nécessaires pour la phase 2 du projet concernant les transactions, en suivant les directives de Swagger et en tenant compte des besoins des utilisateurs.",
+
+    "figmalink": "https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API/tree/master/designs",
+    "periode": [
+      "Date de début : 28 Novembre 2023",
+      "Date de fin : 27 Decembre 2023"
+    ],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Créer une application web complète et responsive avec React pour la phase 1 du projet, qui concerne l'authentification des utilisateurs.",
+      "▪️ Utiliser Redux pour gérer le state de l'ensemble de l'application.",
+      "▪️ Implémenter les fonctionnalités suivantes : page d'accueil, page de connexion, page de profil, gestion de la connexion/déconnexion, affichage et modification du profil utilisateur.",
+      "▪️ Forker le repository existant sur GitHub et suivre l’avancement du travail grâce aux modèles d’Issues inclus.",
+      "▪️ Analyser et spécifier les endpoints d’API nécessaires pour la phase 2 du projet concernant les transactions, en suivant les directives de Swagger et en tenant compte des besoins des utilisateurs.",
+      "▪️ Proposer une modélisation d'API pour les transactions, en décrivant chaque endpoint avec les méthodes HTTP, les routes, les descriptions et les réponses correspondantes."
     ],
     "skillsAcquired": [
-      "Analyser un problème informatique",
-      "Développer un algorithme pour résoudre un problème"
+      "▪️ S'authentifier à une API en utilisant les outils fournis et en suivant les protocoles de sécurité appropriés.",
+      "▪️ Implémenter un gestionnaire d'état dans une application React en utilisant Redux pour maintenir la cohérence des données à travers toute l'application.",
+      "▪️ Interagir avec une API en utilisant les méthodes HTTP appropriées pour récupérer et envoyer des données entre l'application front-end et le serveur back-end.",
+      "▪️ Modéliser une API en décrivant chaque endpoint avec précision en utilisant les directives de Swagger, ce qui permet une communication efficace entre les équipes front-end et back-end."
     ],
-    "technologiesUsed": ["HTML", "CSS", "Javascript"],
-    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
-    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+    "technologiesUsed": [
+      "JSX",
+      "CSS",
+      "Javascript",
+      "React",
+      "Redux",
+      "Redux Toolkit",
+      "Swagger"
+    ],
+    "githubLink": "https://github.com/zinkat/Projet-13-Gerez-application-React-avec-Redux-ReduxToolkit.git",
+    "liveLink": ""
   },
   {
     "id": "11",
-    "title": "en cours de finalisation de mon portfolio",
+    "title": "Faire passer une librairie jQuery vers React",
     "image": "assets/hrnet.png",
-    "description": "",
-    "pictures": ["assets/projet1/hrnet1.png", "assets/projet1/hrnet2.png", "assets/projet1/hrnet3.png"],
+    "description": "Je travaille pour le département technologique de WealthHealth, une grande société financière. Notre équipe est chargée de mettre à jour l'application web interne HRnet de l'entreprise, qui gère les dossiers des employés. Actuellement, l'application utilise jQuery côté front-end, ce qui entraîne des problèmes de performance et de stabilité. Mon rôle dans ce projet consiste à convertir l'ensemble de l'application HRnet en React, en remplaçant progressivement les plugins jQuery par des composants React pour améliorer les performances et la stabilité. Dans le cadre de cette conversion, je suis également responsable de publier les plugins convertis en composants React sur npm, afin qu'ils soient accessibles et réutilisables par d'autres développeurs. En outre, je suis chargé de réaliser des tests de performance pour comparer l'ancienne et la nouvelle version de l'application.",
+
+    "periode": [
+      "Date de début : 02 Janvier 2024",
+      "Date de fin : 12 Février 2024"
+    ],
     "missions": [
-      "Mission 1: ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.",
-      "Mission 2: Programmer en JavaScript "
+      "▪️ Convertir progressivement les éléments basés sur jQuery en composants React, en commençant par l'interface utilisateur (UI). Cela comprend la création de composants pour les fenêtres modales, les menus déroulants et les tableaux, en accordant une attention particulière à la modularité et à la maintenabilité du code.",
+      "▪️ Réaliser des tests de performance pour analyser et évaluer l'impact de la migration vers React sur la vitesse de chargement, la réactivité de l'interface utilisateur et d'autres métriques clés.",
+      "▪️ Publier les composants convertis sur npm, la plateforme de gestion de packages de Node.js, afin de les rendre accessibles et réutilisables par d'autres développeurs au sein de l'entreprise ou de la communauté open source.",
+      "▪️ Documenter soigneusement le processus de conversion, les décisions de conception prises et les composants React créés. Cette documentation servira de référence pour l'équipe de développement et facilitera la maintenance future de l'application."
     ],
     "skillsAcquired": [
-      "Analyser un problème informatique",
-      "Développer un algorithme pour résoudre un problème"
+      "▪️ Migration d'applications jQuery vers React",
+      "▪️ Refondre une application pour réduire la dette technique",
+      "▪️ Développement de composants React modulaires et maintenables",
+      "▪️ Tests de performance avec Lighthouse",
+      "▪️ Déployer une application front-end et publication de packages sur npm",
+      " - react-modal-zinkat",
+      " - react-select-zinkat",
+      "▪️ Produire de la documentation technique pour une application"
     ],
-    "technologiesUsed": ["HTML", "CSS", "Javascript"],
-    "githubLink": "https://github.com/zinkat/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7.git",
-    "liveLink": "https://zinkat.github.io/Les-petits-plats-Developpez-un-algorithme-de-recherche-P7/"
+    "technologiesUsed": ["JSX", "CSS", "Javascript", "React", "npm", "NodeJs" ],
+    "githubLink": "https://github.com/zinkat/projet-final-Faites-passer-une-librairie-jQuery-vers-React.git",
+    "liveLink": ""
   }
 ]

@@ -3,6 +3,8 @@ import { useParams, Navigate } from 'react-router-dom'
 import '../FicheProjet/ficheProjet.css'
 import Tag from '../../components/Tags'
 import Collapse from '../../components/Collapse'
+
+//import Banner from '../../components/Banner'
 // import Carrousel from '../../components/Carrousel'
 
 function FicheProjet() {
@@ -33,29 +35,34 @@ function FicheProjet() {
   if (!ficheProjet) {
     return <Navigate replace to="/Error404" />
   }
+
+  const getImagePath = (imageName) => {
+    return require(`../../${imageName}`)
+  }
   return (
     <div className="mainFiche">
-      {/* <Carrousel
-        pictures={ficheProjet?.pictures.map((picture) =>
-          require('../../' + picture),
-        )}
-      /> */}
-      {/* {console.log(ficheProjet?.pictures)} */}
       <div className="title">
+        <img className="cloud" src={getImagePath(ficheProjet?.image)} alt="" />
         <h1> {ficheProjet?.title}</h1>
+        <ul className="list">
+          <li>{ficheProjet?.periode[0]}</li>
+          <li>{ficheProjet?.periode[1]}</li>
+        </ul>
       </div>
-      <div className="infoPropietaire">
+      <div className="infoProjet">
         <h2>Description du projet :</h2>
-        <span className="nomProprietaire">{ficheProjet?.description}</span>
-        <span className="nomProprietaire">
-          <a
-            href={ficheProjet?.figmalink}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Maquettes Figma
-          </a>
-        </span>
+        <span className="nomProjet">{ficheProjet?.description}</span>
+        {ficheProjet?.figmalink && (
+          <span className="nomProjet">
+            <a
+              href={ficheProjet?.figmalink}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Maquettes
+            </a>
+          </span>
+        )}
       </div>
       <div className="linkCode">
         <a
@@ -65,14 +72,15 @@ function FicheProjet() {
         >
           Lien code source Github
         </a>
-
-        <a
-          href={ficheProjet?.liveLink}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Live link Github
-        </a>
+        {ficheProjet?.liveLink && (
+          <a
+            href={ficheProjet?.liveLink}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Live link Github
+          </a>
+        )}
       </div>
 
       <div className="TagContent">
