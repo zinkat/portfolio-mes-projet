@@ -42,4 +42,13 @@ button:hover {
     flex-direction: column;
     gap: 10px;
   }
+
+  .icondiv{
+    flex-wrap: wrap;
+   gap: 10px;
+  }
+  .mainAbout {
+    width: 90%;
+    margin: 20px auto;
+  }
 }
