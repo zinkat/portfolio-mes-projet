@@ -38,7 +38,7 @@ function Apropos() {
 
         <div>
           En février 2024, j'ai conclu avec succès ma formation en développement
-          d'applications JavaScript React, décrochant ainsi un diplôme Titre RNCP niveau 6 (Bac+3). 
+          d'applications JavaScript React, décrochant ainsi un diplôme stron Titre RNCP niveau 6 (Bac+3). 
           de Openclassrooms Cette expérience m'a permis de consolider mes compétences
           techniques et de me spécialiser davantage dans le développement
           front-end. J'ai acquis une expertise dans la création d'interfaces
