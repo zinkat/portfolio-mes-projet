@@ -28,8 +28,7 @@ function Apropos() {
           solide expérience dans ce domaine.{' '}
         </div>
         <div>
-          En janvier 2022, après m'être installée en France en août de l'année
-          précédente, j'ai décidé de changer de cap et de me lancer dans une
+          En janvier 2022, j'ai décidé de changer de cap et de me lancer dans une
           nouvelle aventure professionnelle. Animée par ma passion pour la
           technologie et encouragée par une formation en développement
           web à l'école Ifocop, j'ai entrepris une reconversion dans le
@@ -38,8 +37,8 @@ function Apropos() {
 
         <div>
           En février 2024, j'ai conclu avec succès ma formation en développement
-          d'applications JavaScript React, décrochant ainsi un diplôme stron Titre RNCP niveau 6 (Bac+3)
-          de Openclassrooms Cette expérience m'a permis de consolider mes compétences
+          d'applications JavaScript React, décrochant ainsi un Titre RNCP niveau 6 (Bac+3)
+          d'Openclassrooms Cette expérience m'a permis de consolider mes compétences
           techniques et de me spécialiser davantage dans le développement
           front-end. J'ai acquis une expertise dans la création d'interfaces
           utilisateur réactives et esthétiques, ainsi que dans l'analyse des
