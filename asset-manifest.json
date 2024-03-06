@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-mes-projet/static/css/main.90382e83.css",
-    "main.js": "/portfolio-mes-projet/static/js/main.c0a7fde7.js",
+    "main.js": "/portfolio-mes-projet/static/js/main.d1a0246f.js",
     "static/js/453.4302eacc.chunk.js": "/portfolio-mes-projet/static/js/453.4302eacc.chunk.js",
     "static/media/CV-zineb-katim.pdf": "/portfolio-mes-projet/static/media/CV-zineb-katim.eda5f773e8f8695b6fe0.pdf",
     "static/media/banner.jpg": "/portfolio-mes-projet/static/media/banner.bf53d90dadfb5bc77f6e.jpg",
@@ -12,11 +12,11 @@
     "index.html": "/portfolio-mes-projet/index.html",
     "static/media/arrow_back_ios.svg": "/portfolio-mes-projet/static/media/arrow_back_ios.a8b9b5ca78cd5124727100163f345f20.svg",
     "main.90382e83.css.map": "/portfolio-mes-projet/static/css/main.90382e83.css.map",
-    "main.c0a7fde7.js.map": "/portfolio-mes-projet/static/js/main.c0a7fde7.js.map",
+    "main.d1a0246f.js.map": "/portfolio-mes-projet/static/js/main.d1a0246f.js.map",
     "453.4302eacc.chunk.js.map": "/portfolio-mes-projet/static/js/453.4302eacc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90382e83.css",
-    "static/js/main.c0a7fde7.js"
+    "static/js/main.d1a0246f.js"
   ]
 }
